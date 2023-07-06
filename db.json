@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstName": "Akash ",
+      "lastName": "Thakkar ",
+      "email": "akashthakkar931@gmail.com",
+      "dob": "2003-10-29T18:30:00.000Z",
+      "gender": "male",
+      "education": "Gradute",
+      "experience": "2",
+      "company": "Deloitte",
+      "package": "8",
+      "id": 1
+    },
+    {
+      "firstName": "Harikesh",
+      "lastName": "Ranjan",
+      "email": "harikesh@gmail.com",
+      "dob": "2003-07-13T18:30:00.000Z",
+      "gender": "male",
+      "education": "Gradute",
+      "experience": "3",
+      "company": "Infosys",
+      "package": "6",
+      "id": 2
+    },
+    {
+      "firstName": "Puranjay",
+      "lastName": "Bhargava",
+      "email": "puranjay@gmail.com",
+      "dob": "2003-12-20T18:30:00.000Z",
+      "gender": "male",
+      "education": "Gradute",
+      "experience": "3",
+      "company": "Google",
+      "package": "20",
+      "id": 3
+    }
+  ]
+}
